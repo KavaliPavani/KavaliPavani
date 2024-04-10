@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KavaliPavani
-- 👀 I’m interested in ...Learing New Things
+- 👀 I’m interested in ...Learning New Things
 - 🌱 I’m currently learning ... Full stack Web Development
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Water might not be wet
